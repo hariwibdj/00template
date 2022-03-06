@@ -3,5 +3,5 @@
     "window.zoomLevel":1,
     "terminal.integrated.fontSize":18,
     "workbench.colorTheme":"Noctis Minimus",
-    "worckbench.iconTheme":"vscode-icons",
+    "worckbench.iconTheme":"vscode-icons"
 }
